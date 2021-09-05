@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkulk007" alt="gkulk007" /></a> </p>
 
-- 🔭 I’m currently working on **Mag-E**
+- 🔭 I’m currently working on **Mag-E 2.0**
 
 - 🌱 I’m currently learning **Django**
 
